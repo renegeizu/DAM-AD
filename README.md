@@ -1,2 +1,8 @@
-# DAM-AD
-Desarrollo de Aplicaciones Multiplataforma 2013/2014 - Acceso a Datos (2ºCurso)
+# Acceso a Datos
+
+Teoria y Practicas de la Asignatura
+
+- Teoria
+- Practicas en Android
+- Practicas en Java
+- Practicas con Servlets

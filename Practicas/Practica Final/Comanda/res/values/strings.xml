@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Comanda</string>
+    <string name="title_activity_ventana__pedido">Ventana Pedido</string>
+    <string name="title_activity_ventana__carta">Ventana Carta</string>
+    <string name="action_visualizar_carta">Visualizar Carta</string>
+    <string name="action_cerrar">Cerrar Pedido</string>
+    <string name="action_abrir">ReAbrir Pedido</string>
+    <string name="action_actualizar">Actualizar</string>
+    <string name="action_actualizar_carta">Actualizar</string>
+    <string name="btDetalleMesa">Mesa</string>
+    <string name="tvNombreDetallePedido">Nombre del Pedido</string>
+   	<string name="ibSumarDetallePedido">Imagen de Sumar</string> 
+   	<string name="tvCantidadDetallePedido">00</string>
+   	<string name="ibRestarDetallePedido">Imagen de Restar</string> 
+   	<string name="iv">Imagen</string> 
+   	<string name="tvNombreDetalleCarta">Nombre de la Carta</string>
+   	<string name="tvPrecioDetalleCarta">Precio</string>
+
+</resources>

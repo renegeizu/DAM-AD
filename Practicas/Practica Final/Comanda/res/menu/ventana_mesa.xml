@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/action_visualizar_carta"
+          android:title="@string/action_visualizar_carta"
+          android:orderInCategory="100"
+          android:icon="@android:drawable/ic_input_get"
+		  android:showAsAction="ifRoom|withText" />
+    
+    <item android:id="@+id/action_actualizar"
+          android:title="@string/action_actualizar"
+          android:orderInCategory="100"
+          android:icon="@android:drawable/ic_popup_sync"
+		  android:showAsAction="ifRoom|withText" />
+
+</menu>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Archivos Texto Externos</string>
+    <string name="action_settings">Settings</string>
+    <string name="etTexto">Escribe...</string>
+    <string name="btGuardar">Guardar</string>
+    <string name="tvVisualizar"></string>
+	<string name="btVisualizar">Leer Archivo</string>
+</resources>

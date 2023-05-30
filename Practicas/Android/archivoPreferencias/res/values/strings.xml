@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Archivo Preferencias</string>
+    <string name="action_settings">Settings</string>
+    <string name="btObtener">Obtener</string>
+    <string name="btGuardar">Guardar</string>
+    <string name="tvDatos">Dato: </string>
+    <string name="tvNombre">Nombre: </string>
+    <string name="etDatos">Escribe el dato</string>
+    <string name="etNombre">Nombre Preferencia</string>
+    <string name="tvSalida"></string>
+
+</resources>

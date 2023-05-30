@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Archivos Texto</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_texto">Aqui el Texto</string>
+    <string name="bt_Guardar">Guardar</string>
+    <string name="bt_Leer">Leer</string>
+    <string name="tv_Leer"></string>
+
+</resources>

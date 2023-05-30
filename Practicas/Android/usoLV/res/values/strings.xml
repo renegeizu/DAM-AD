@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Uso LV</string>
+    <string name="agregar_contacto">Agregar Contacto</string>
+    <string name="txt_contacto">Contacto</string>
+    <string name="txt_telefono">Telefono</string>
+    <string name="txt_correo">Correo</string>
+    <string name="txt_logo">Foto del Contacto</string>
+
+</resources>
